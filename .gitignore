@@ -1,0 +1,10 @@
+# Exclude AppImage files
+*.AppImage
+
+# Temporary files
+*.swp
+*~
+.DS_Store
+
+# Directories generated during installation
+/squashfs-root/ 
