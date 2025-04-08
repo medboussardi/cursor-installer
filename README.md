@@ -7,23 +7,9 @@
 A robust installation script for the AI-powered [Cursor Editor](https://cursor.sh) on Linux systems. This script automates the process of installing Cursor from the AppImage format to a fully integrated system application.
 
 <div align="center">
-  <img src="https://cdn.sanity.io/images/ornj730p/production/c23fabb6339f3466b2919d0b0c1600df301c97ea-1200x630.png" alt="Cursor Editor" width="80%"/>
+  <img src="assets/cursor_editor.png" alt="Cursor Editor" width="80%"/>
   <p><em>Cursor: The AI-first code editor that helps you code faster</em></p>
 </div>
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="https://cursor.sh/_next/image?url=%2Fscreenshots%2Fhome%2FP5.png&w=3840&q=75" alt="Cursor Editor Interface" width="80%"/>
-  <br>
-  <em>The Cursor Editor interface with AI assistance</em>
-</p>
-
-<p align="center">
-  <img src="https://cursor.sh/_next/image?url=%2Fscreenshots%2Fhome%2FLM04.png&w=3840&q=75" alt="Cursor AI Capabilities" width="80%"/>
-  <br>
-  <em>Powerful AI coding capabilities</em>
-</p>
 
 ## 🚀 Features
 
