@@ -6,7 +6,24 @@
 
 A robust installation script for the AI-powered [Cursor Editor](https://cursor.sh) on Linux systems. This script automates the process of installing Cursor from the AppImage format to a fully integrated system application.
 
-![Cursor Editor Screenshot](https://raw.githubusercontent.com/getcursor/cursor/main/images/cursor_banner.png)
+<div align="center">
+  <img src="https://camo.githubusercontent.com/4a6094fe93fb3e764d6c058efb193b90160a004bfb28c5ae5124cf90d72fdb91/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f776562736974652d63757273722e73332f616e696d6174696f6e732f696e736572742d676f6a6f2e676966" alt="Cursor Editor in action" width="80%"/>
+  <p><em>Cursor: The AI-first code editor that helps you code faster</em></p>
+</div>
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/cf84a37d891edbbe8c2b8aa550b588dd0aebb654d02b9dde73cccf1bef14590d/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f776562736974652d63757273722e73332f616e696d6174696f6e732f7465726d696e616c2e676966" alt="Cursor Terminal Integration" width="80%"/>
+  <br>
+  <em>Seamless terminal integration</em>
+</p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/1499c93c567e8564011644ed69b13430e977fecad8bfe0737e904de1d6c5ffef/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f776562736974652d63757273722e73332f616e696d6174696f6e732f636861742e676966" alt="Cursor AI Chat" width="80%"/>
+  <br>
+  <em>Integrated AI assistance</em>
+</p>
 
 ## 🚀 Features
 
@@ -39,7 +56,7 @@ sudo ./setup-cursor.sh
 ### Option 2: Clone This Repository
 
 ```bash
-git clone https://github.com/yourusername/cursor-installer.git
+git clone https://github.com/medboussardi/cursor-installer.git
 cd cursor-installer
 # Place the Cursor AppImage in this directory
 chmod +x setup-cursor.sh
